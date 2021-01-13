@@ -18,3 +18,8 @@ npm run build
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 "# bk-2004-maizuo" 
+
+# 我是分支文件
+
+你想修改我嘛？
+
